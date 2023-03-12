@@ -16,4 +16,4 @@ https://colab.research.google.com/drive/1I0Svw0lR4Uvo0m8M9hvAs0KaXRY2TqI-?usp=sh
 
 ## Requirements note:
 We were asked to supply only the requirments not shown in the course.<br>
-The following are all the libs needed: .
+The following are all the libs needed: tensorflow.
