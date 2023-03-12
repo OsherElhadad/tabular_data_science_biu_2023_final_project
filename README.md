@@ -11,6 +11,7 @@ https://colab.research.google.com/drive/1I0Svw0lR4Uvo0m8M9hvAs0KaXRY2TqI-?usp=sh
     .
     ├── TDS_MS_and_OE.ipynb        # Jupyter inference notebook
     ├── Tabular_Data_Science_Final_Project_Report.pdf   # Report
+    ├── README.md
     └── requirements.txt                                # Requirements for the project
 
 ## Requirements note:
