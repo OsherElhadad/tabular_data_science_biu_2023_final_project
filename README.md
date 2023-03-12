@@ -5,7 +5,7 @@ Please see below all the relevant information for the submission.<br>
 All you need, is to run the relevant notebook, local or in Colab.<br>
 
 ## Colab Inference Notebook:
-https://colab.research.google.com/drive/1Fd-fKZ2BuBxSbxb1K_3E3DUM0VF8x11A?usp=sharing
+https://colab.research.google.com/drive/1I0Svw0lR4Uvo0m8M9hvAs0KaXRY2TqI-?usp=sharing
 
 ## Repository structure:
     .
